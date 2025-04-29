@@ -31,7 +31,7 @@
 ## 贡献项目与联系我
 如果你发现任何bug或有新功能建议，以及任何技术问题，欢迎各位提Issue或提交PR。
 
-- 维护者：@Reclubbit
+- 维护者：[@Reclubbit](https://github.com/Reclubbit)
 - 邮箱：reclubbit@163.com（如果你有任何建议，可以发送邮件到该邮箱）
 - 微信：Reclubbit（欢迎日常学习交流和闲聊，加好友备注"随机漫步"）
 
